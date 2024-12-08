@@ -1,0 +1,45 @@
+{
+  "DisplayName": "Main",
+  "Tooltip": null,
+  "HelpLink": null,
+  "Color": null,
+  "OriginalIconFileName": null,
+  "Arguments": [
+    {
+      "Name": "working_dir",
+      "DisplayName": "working_dir",
+      "Category": null,
+      "Tooltip": null,
+      "Placeholder": "C:\\UiPath\\RPA_Stock_Project",
+      "Widget": null,
+      "IsRequired": false,
+      "IsPrincipal": true,
+      "ArgumentType": 0,
+      "DataSourceItems": null
+    },
+    {
+      "Name": "percent_error_change",
+      "DisplayName": "percent_error_change",
+      "Category": null,
+      "Tooltip": null,
+      "Placeholder": "5",
+      "Widget": null,
+      "IsRequired": false,
+      "IsPrincipal": true,
+      "ArgumentType": 0,
+      "DataSourceItems": null
+    },
+    {
+      "Name": "emailout_list",
+      "DisplayName": "emailout_list",
+      "Category": null,
+      "Tooltip": null,
+      "Placeholder": "RPADev@WorthingtonSteel.com",
+      "Widget": null,
+      "IsRequired": false,
+      "IsPrincipal": true,
+      "ArgumentType": 0,
+      "DataSourceItems": null
+    }
+  ]
+}
